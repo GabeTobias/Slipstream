@@ -8,8 +8,5 @@ A polymetric racing game prototype built in the unity game engine. The ultimate 
 ### Dependencies
 - Unity
 
-## Authors
-* **Gabriel Tobias** - *Initial work* - [GabeTobias](https://github.com/GabeTobias)
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
