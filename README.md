@@ -5,13 +5,6 @@ A polymetric racing game prototype built in the unity game engine. The ultimate 
 
 ![alt text](Hero.jpg)
 
-## Getting Started
-to clone this project it is *NECESSARY* to use the `--recursive` flag
-
-```
-git clone --recursive https://github.com/GabeTobias/Diode
-```
-
 ### Dependencies
 - Unity
 
